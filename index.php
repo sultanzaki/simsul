@@ -7,8 +7,8 @@ And Modified by Farzain - zFz ( Faraaz )
 */
 require_once('./line_class.php');
 
-$channelAccessToken = 'ACCESS TOKEN ENTE'; //Your Channel Access Token
-$channelSecret = 'SECRET TOKEN ENTE';//Your Channel Secret
+$channelAccessToken = 'WLt/Pd18wUjGUee3qtWr8agMBQqrEG2F5KM0P25gY1Na3Ajn1feiyaJKwxpMTnyo9zZPreJwEl/KwDhivZuLof3PdzrwRLKiwJzybJdNTS483YDHYwcJg7lB48at2dGaNUs8fRlJejo7OE/Ax0kMNwdB04t89/1O/w1cDnyilFU='; //Your Channel Access Token
+$channelSecret = '1a925c1c2e6f130e68266a78680cc855';//Your Channel Secret
 
 $client = new LINEBotTiny($channelAccessToken, $channelSecret);
 
